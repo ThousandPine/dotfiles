@@ -7,8 +7,9 @@
 配置文件
 
 - i3wm
-- i3bar
+- i3status
 - polybar
+- xrandr
 - dunst
 - zsh
-- vim
+- vim 
