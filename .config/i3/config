@@ -32,7 +32,7 @@ gaps inner 8px
 # enable window icons for all windows
 for_window [all] title_window_icon on
 # Wallpaper
-exec_always --no-startup-id "feh --bg-scale /home/pine/Pictures/Wallpaper/gruvbox_pacman.png"
+exec_always --no-startup-id "feh --bg-scale ~/Pictures/Wallpaper/yeaYcEF.png"
 exec_always --no-startup-id picom
 
 
