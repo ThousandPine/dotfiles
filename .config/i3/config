@@ -27,8 +27,7 @@ bindsym XF86MonBrightnessDown exec xbacklight -dec 5.0
 
 
 # Gaps
-gaps inner 7px
-gaps outer -7px
+gaps inner 8px
 # enable window icons for all windows
 for_window [all] title_window_icon on
 # Wallpaper
