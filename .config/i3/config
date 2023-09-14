@@ -8,6 +8,7 @@ exec --no-startup-id cfw
 exec --no-startup-id /usr/lib/polkit-kde-authentication-agent-1
 exec_always --no-startup-id autotiling
 exec_always --no-startup-id "killall polybar; polybar"
+exec_always --no-startup-id "killall picom; picom --legacy-backend"
 exec_always --no-startup-id ~/.config/i3/xrandr.sh
 
 # open to certain workspace
