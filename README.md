@@ -13,3 +13,4 @@
 - dunst
 - zsh
 - vim 
+- picom
