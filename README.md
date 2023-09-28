@@ -2,7 +2,7 @@
 
 配色
 
-- gruvbox
+- [gruvbox-material](https://github.com/sainnhe/gruvbox-material-vscode)
 
 配置文件
 
@@ -12,6 +12,6 @@
 - xrandr
 - dunst
 - zsh
-- vim 
+- vim
 - picom
 - konsole
